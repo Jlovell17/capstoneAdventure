@@ -27,7 +27,7 @@ namespace Capstone
     //
     //
     //basic story premis credit goes to matthew covile on youtube
-    //
+    //https://www.youtube.com/watch?v=zTD2RZz6mlo&t=647s for inspiration
     //
     public enum Storystates
     {
